@@ -5,13 +5,6 @@
 // undefined , symbol(used to make any value unique) 
 // BigInt
 
-let score = 100
-let scoreValue = score
-scoreValue = 200;
-
-console.log(score)
-console.log(scoreValue);
-
 
 // even if we pass same string or number in symbol it will make two unqiue things
 const id = Symbol('123')
