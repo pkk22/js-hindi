@@ -31,4 +31,4 @@ console.log(Object.keys(obj3)) // gives array of keys
 console.log(Object.values(obj3)) // gives array of values
 console.log(Object.entries(obj3)) // gives array of pair of keys and values
 
-console.log(Object.hasOwnProperty("e")) // states whether the key is present or not
+console.log(obj3.hasOwnProperty('d')) // states whether the key is present or not
