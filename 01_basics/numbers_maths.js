@@ -20,7 +20,7 @@ console.log(Math.ceil(4.6))
 console.log(Math.floor(4.6))
 
 console.log(Math.random()) //gives any random value between 0 and 1
-console.log((Math.random()*10)+1) // gives value between 1 and 9
+console.log(floor((Math.random()*10))+1) // gives value between 1 and 9
 
 const min = 10;
 const max = 20;
